@@ -1,11 +1,11 @@
 <?php
-// datingcouples – one page PHP dating site
+// datingcouples – One Page PHP Dating Website (English)
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>datingcouples – Find Your Perfect Match</title>
+<title>datingcouples – Find Your Match</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
@@ -136,7 +136,7 @@ section h2{
 
 .profile img{
   width:100%;
-  height:260px;
+  height:280px;
   object-fit:cover;
 }
 
@@ -209,74 +209,89 @@ footer{
 <!-- HERO -->
 <section class="hero" id="home">
   <div>
-    <h2>Find Love, Build Connections, Create Real Relationships</h2>
+    <h2>Find Love, Build Real Connections</h2>
     <p>
-      datingcouples is a modern dating platform designed to help singles
-      meet genuine people, build meaningful connections, and find lasting love.
+      datingcouples is a modern dating platform for adults (18+),
+      helping singles connect, chat, and build meaningful relationships.
     </p>
-    <a href="#join" class="btn">Join Now – It’s Free</a>
+    <a href="#join" class="btn">Join Free Today</a>
   </div>
 </section>
 
 <!-- FEATURES -->
 <section id="features">
-<h2>Why Choose datingcouples?</h2>
+<h2>Why datingcouples?</h2>
 
 <div class="features">
   <div class="feature">
-    <h3>Real Profiles</h3>
-    <p>
-      Every profile is created by real people looking for genuine connections.
-      No bots, no fake accounts, just authentic singles.
-    </p>
+    <h3>Verified Adults</h3>
+    <p>All profiles are intended for adults aged 18 and above.</p>
   </div>
-
   <div class="feature">
-    <h3>Smart Matching</h3>
-    <p>
-      Our matching system helps you discover people who share your interests,
-      values, and relationship goals.
-    </p>
+    <h3>Smart Matches</h3>
+    <p>Find people who share your interests and relationship goals.</p>
   </div>
-
   <div class="feature">
-    <h3>Safe & Secure</h3>
-    <p>
-      Your privacy matters. datingcouples uses modern security practices
-      to keep your data protected.
-    </p>
+    <h3>Privacy First</h3>
+    <p>Your data and conversations remain safe and secure.</p>
   </div>
 </div>
 </section>
 
-<!-- PROFILES -->
+<!-- PROFILES (18+ ADULT WOMEN – TASTEFUL) -->
 <section id="profiles">
-<h2>Meet Singles Near You</h2>
+<h2>Meet Single Women (18+)</h2>
 
 <div class="profiles">
-  <div class="profile">
-    <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e">
-    <h4>Emma, 26</h4>
-    <p>Loves travel & photography</p>
-  </div>
 
   <div class="profile">
     <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2">
-    <h4>Sophia, 29</h4>
-    <p>Fitness & healthy living</p>
+    <h4>Sophia, 27</h4>
+    <p>Fitness • Travel</p>
   </div>
 
   <div class="profile">
-    <img src="https://images.unsplash.com/photo-1527980965255-d3b416303d12">
-    <h4>James, 32</h4>
-    <p>Entrepreneur & coffee lover</p>
+    <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e">
+    <h4>Emily, 25</h4>
+    <p>Photography • Nature</p>
   </div>
 
   <div class="profile">
-    <img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d">
-    <h4>Daniel, 35</h4>
-    <p>Music, travel & good vibes</p>
+    <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e">
+    <h4>Olivia, 29</h4>
+    <p>Yoga • Wellness</p>
   </div>
+
+  <div class="profile">
+    <img src="https://images.unsplash.com/photo-1488426862026-3ee34a7d66df">
+    <h4>Ava, 26</h4>
+    <p>Art • Design</p>
+  </div>
+
+  <div class="profile">
+    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d">
+    <h4>Isabella, 31</h4>
+    <p>Cooking • Travel</p>
+  </div>
+
+  <div class="profile">
+    <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1">
+    <h4>Mia, 24</h4>
+    <p>Fashion • Lifestyle</p>
+  </div>
+
+  <div class="profile">
+    <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330">
+    <h4>Charlotte, 30</h4>
+    <p>Books • Coffee</p>
+  </div>
+
+  <div class="profile">
+    <img src="https://images.unsplash.com/photo-1547425260-76bcadfb4f2c">
+    <h4>Amelia, 28</h4>
+    <p>Marketing • Travel</p>
+  </div>
+
 </div>
 </section>
 
@@ -304,13 +319,12 @@ footer{
 <section id="contact">
 <h2>Contact Us</h2>
 <p style="text-align:center;max-width:700px;margin:auto;">
-Have questions or feedback? Our team is always here to help you
-make meaningful connections and improve your dating experience.
+Questions or feedback? We’re here to help you find meaningful connections.
 </p>
 </section>
 
 <footer>
-© 2026 datingcouples. All rights reserved.
+© 2026 datingcouples. Adults 18+ only. All rights reserved.
 </footer>
 
 </body>
